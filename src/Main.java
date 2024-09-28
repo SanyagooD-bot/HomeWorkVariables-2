@@ -127,45 +127,45 @@ public class Main {
         System.out.println("________________________________________Задача 8________________________________________");
 
         System.out.println("...........................................Мария............................................");
-        int MoneyM = 67760;
-        int yearMoney = MoneyM * 12;
-        int premiumMoney = MoneyM / 100 * 10;
-        int moneySupplement = MoneyM + premiumMoney;
+        int moneyMaria = 67760;
+        int yearMaria = moneyMaria * 12;
+        int premiumMaria = moneyMaria / 100 * 10;
+        int moneySupplement = moneyMaria + premiumMaria;
         int yearSupplement = moneySupplement * 12;
-        int DifferenceMoney = yearSupplement - yearMoney;
-        System.out.println("Мария получит без надбавок " + yearMoney + " рублей за год");
-        System.out.println("10% от зарплаты Марии составляет " + premiumMoney);
+        int differenceMoney = yearSupplement - yearMaria;
+        System.out.println("Мария получит без надбавок " + yearMaria + " рублей за год");
+        System.out.println("10% от зарплаты Марии составляет " + premiumMaria);
         System.out.println("Зарплата Марии с надбавкой составляет " + moneySupplement);
         System.out.println("Зарплата Марии с надбавкой за год составит " + yearSupplement);
-        System.out.println("Мария теперь получает " + moneySupplement + " рублей. Её годовой доход вырос на " + DifferenceMoney + " рублей");
+        System.out.println("Мария теперь получает " + moneySupplement + " рублей. Её годовой доход вырос на " + differenceMoney + " рублей");
 
         System.out.println("......................................Денис...................................................");
 
-        int MoneyD = 83690;
-        int yearMoneyD = MoneyD * 12;
-        int premiumDenis = MoneyD / 100 * 10;
-        int moneySupplement1 = MoneyD + premiumDenis;
+        int moneyDenis = 83690;
+        int yearDenis = moneyDenis * 12;
+        int premiumDenis = moneyDenis / 100 * 10;
+        int moneySupplement1 = moneyDenis + premiumDenis;
         int yearSupplement1 = moneySupplement1 * 12;
-        int DifferenceMoney1 = yearSupplement1 - yearMoneyD;
-        System.out.println("Получит Денис без надбавок " + yearMoneyD + " рублей за год");
+        int differenceMoney1 = yearSupplement1 - yearDenis;
+        System.out.println("Получит Денис без надбавок " + yearDenis + " рублей за год");
         System.out.println("10% от зарплаты Дениса составляет " + premiumDenis);
         System.out.println("Зарплата Дениса с надбавкой составит " + moneySupplement1);
         System.out.println("Зарплата Дениса с надбавкой за год составляет " + yearSupplement1);
-        System.out.println("Денис теперь получает " + moneySupplement1 + " рублей. Годовой доход вырос на " + DifferenceMoney1 + " рублей");
+        System.out.println("Денис теперь получает " + moneySupplement1 + " рублей. Годовой доход вырос на " + differenceMoney1 + " рублей");
 
         System.out.println(".......................................Кристина..................................................");
 
-        int MoneyC = 76230;
-        int yearMoneyC = MoneyC * 12;
-        int premiumKris = MoneyC / 100 * 10;
-        int moneySupplement2 = MoneyC + premiumKris;
+        int moneyChristina = 76230;
+        int yearChristina = moneyChristina * 12;
+        int premiumChristina = moneyChristina / 100 * 10;
+        int moneySupplement2 = moneyChristina + premiumChristina;
         int yearSupplement2 = moneySupplement2 * 12;
-        int DifferenceMoney2 = yearSupplement2 - yearMoneyC;
-        System.out.println("Получит Кристина без надбавок " + yearMoneyC + " рублей за год");
-        System.out.println("10% от зарлаты Кристины составляет " + premiumKris);
+        int differenceMoney2 = yearSupplement2 - yearChristina;
+        System.out.println("Получит Кристина без надбавок " + yearChristina + " рублей за год");
+        System.out.println("10% от зарлаты Кристины составляет " + premiumChristina);
         System.out.println("Зарплата Кристины с надбавкой составляет " + moneySupplement2);
         System.out.println("Зарплата Кристины с надбавкой за год составляет " + yearSupplement2);
-        System.out.println("Кристина теперь получает " + moneySupplement2 + " рублей.Её годовой доход вырос на " + DifferenceMoney2 + " рублей");
+        System.out.println("Кристина теперь получает " + moneySupplement2 + " рублей.Её годовой доход вырос на " + differenceMoney2 + " рублей");
 
         System.out.println("________________________________________________________________________________________________________________________");
 
